@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TestDrivenRanges/TestDrivenRanges/obj
+/TestDrivenRanges/.vs/TestDrivenRanges/v16
+/TestDrivenRanges/TestDrivenRange/bin/Debug/netcoreapp3.1
+/TestDrivenRanges/TestDrivenRange/obj
+/TestDrivenRanges/TestDrivenRangesUT/obj
+/TestDrivenRanges/TestDrivenRangesUT/bin/Debug/netcoreapp3.1
+/TestDrivenRange/bin/Debug/netcoreapp3.1
+/TestDrivenRange/obj
+/TestDrivenRangesUT/bin/Debug/netcoreapp3.1
+/TestDrivenRangesUT/obj
